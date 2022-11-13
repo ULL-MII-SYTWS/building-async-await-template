@@ -1,5 +1,5 @@
 {
-  "name": "async-await-equal-generators-plus-promises",
+  "name": "building-async-await-template",
   "version": "1.0.0",
   "description": "https://ull-mii-sytws.github.io/practicas/building-async-await.html",
   "main": "solution.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ULL-MII-SYTWS-2021/async-await-equal-generators-plus-promises.git"
+    "url": "git+https://github.com/ULL-MII-SYTWS/building-async-await-template.git"
   },
   "keywords": [],
   "author": "Casiano Rodriguez Leon <crguezl@ull.edu.es> (https://crguezl.github.io/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ULL-MII-SYTWS-2021/async-await-equal-generators-plus-promises/issues"
+    "url": "https://github.com/ULL-MII-SYTWS/building-async-await-template/issues"
   },
-  "homepage": "https://github.com/ULL-MII-SYTWS-2021/async-await-equal-generators-plus-promises#readme",
+  "homepage": "https://github.com/ULL-MII-SYTWS/building-async-await-template#readme",
   "dependencies": {
   }
 }
